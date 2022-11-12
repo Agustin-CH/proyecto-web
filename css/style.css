@@ -1,0 +1,15 @@
+h1{
+    background-color: aqua;
+    display: flex;
+    border-radius: 3px;
+    border: solid 2px black;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+h1:hover{
+    transition: 1s;
+    background-color: coral;
+    cursor: pointer;
+}

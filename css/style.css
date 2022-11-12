@@ -13,3 +13,9 @@ h1:hover{
     background-color: coral;
     cursor: pointer;
 }
+
+img{
+    display:block;
+    border-radius: 15px;
+    align-content: center;
+}

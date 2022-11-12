@@ -21,7 +21,8 @@ img{
 }
 
 p:hover{
-    transform: scale(2);
-    color: blueviolet;
+    transition: 50s;
+    transform: rotate(60deg);
+    color: sandybrown;
     cursor: pointer;
 }

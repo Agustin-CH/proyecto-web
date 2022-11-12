@@ -19,3 +19,9 @@ img{
     border-radius: 15px;
     align-content: center;
 }
+
+p:hover{
+    transform: scale(2);
+    color: blueviolet;
+    cursor: pointer;
+}
